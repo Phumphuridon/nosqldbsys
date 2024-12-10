@@ -1,1 +1,1 @@
-# nosqldbsys
+# NoSQL Database System Lab
